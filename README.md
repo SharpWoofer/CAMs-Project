@@ -17,6 +17,9 @@ CAMs is a Java-based Command Line Interface (CLI) application for staff and stud
 
 Ensure you have Java 11 or above installed on your Computer. You can check by opening a command terminal and typing java -version.
 
+## Try it out online: 
+https://www.jdoodle.com/ia/15Bl
+
 ## Compiling and Running the project
 ### Using the terminal
 
